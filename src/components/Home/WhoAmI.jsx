@@ -13,7 +13,6 @@ export default function WhoAmI() {
         <p className="text-slate-300 leading-relaxed">
           Je suis également un grand fan de jeux vidéo et de musique.
         </p>
-        {/* TODO: texte libre personnalisé, valeurs */}
       </div>
     </SectionBlock>
   )
